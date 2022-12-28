@@ -10,11 +10,11 @@ Front-End Web Developer // Installs and tests user interface elements of website
 </a>
 <a href="https://t.me/davlatovs_88">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" width="30px" > 
-</a>
+</a> </br>
 
-📍  Location: Warshaw, Poland
-📞 Contact number: +48792031442
-📧 mail: [davlatovkhumoyun@gmail.com](https:://gmail.com/davlatovkhumoyun@gmail.com])
+📍  Location: Warshaw, Poland </br>
+📞 Contact number: +48792031442  </br>
+📧 mail: [davlatovkhumoyun@gmail.com](https:://mail.com/davlatovkhumoyun@gmail.com])
 
 
 

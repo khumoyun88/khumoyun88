@@ -14,5 +14,5 @@ Front-End Web Developer // Installs and tests user interface elements of website
 
 ### Languages and tools i use:
 
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/HTML5_logo_black.svg/1024px-HTML5_logo_black.svg.png"   width="30px"></code>
+<code><img src="https://e7.pngegg.com/pngimages/837/140/png-clipart-html-5-logo-html5-grey-black-icons-logos-emojis-tech-companies.png"   width="30px"></code>
 

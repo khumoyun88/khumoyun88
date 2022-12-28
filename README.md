@@ -11,6 +11,6 @@ i am a Front-End Web Developer // Installs and tests user interface elements of 
   
 </a>
 <a href="https://t.me/davlatovs_88">
-  <img src="https://banner2.cleanpng.com/20180605/ef/kisspng-telegram-encapsulated-postscript-transfer-5b170605610126.3859681215282355253974.jpg" width="30px" >
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" width="30px" >
   
 </a>

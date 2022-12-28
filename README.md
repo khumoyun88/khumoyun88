@@ -2,11 +2,12 @@
 i am a Front-End Web Developer // Installs and tests user interface elements of websites
 
 <a href="https://www.linkedin.com/in/khumoyun-davlatov">
-  <img src="https://www.freeiconspng.com/uploads/linkedin-logo-3.png" width="30px" alt="Linkedin Logo Png Available In Different Size" />
+  <img src="https://www.freeiconspng.com/uploads/linkedin-logo-3.png" width="30px">
 </a>
 
 <a href="https://www.instagram.com/khumoyundavlatov_01">
-  <img src="https://as2.ftcdn.net/v2/jpg/02/98/31/59/1000_F_298315933_FdK3b8wCs7EhYWlJqieSvmSgTOr9MSfR.jpg">
+  <img src="http://www.visioled.net/en/wp-content/uploads/sites/2/2015/04/instagram-Logo-PNG-Transparent-Background-download.png"  width="30px">
+  
   
 </a>
 <a href="https://www.linkedin.com/in/khumoyun-davlatov">

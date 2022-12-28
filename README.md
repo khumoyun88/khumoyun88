@@ -14,5 +14,5 @@ Front-End Web Developer // Installs and tests user interface elements of website
 
 ### Languages and tools i use:
 
-<code><img src="https://assets.stickpng.com/images/5847f5bdcef1014c0b5e489c.png"   width="30px"></code>
+<code><img src="https://image.pngaaa.com/76/2436076-middle.png"   width="30px"></code>
 

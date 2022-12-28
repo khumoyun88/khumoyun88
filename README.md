@@ -12,7 +12,17 @@ Front-End Web Developer // Installs and tests user interface elements of website
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" width="30px" > 
 </a>
 
-### Languages and tools i use:
+📍  Location: Warshaw, Poland
+📞 Contact number: +48792031442
+📧 mail: [davlatovkhumoyun@gmail.com](https:://gmail.com/davlatovkhumoyun@gmail.com])
 
-<code><img src="https://w7.pngwing.com/pngs/840/443/png-transparent-html-5-logo-web-development-html-css3-canvas-element-web-design-w3c-html5-logo-miscellaneous-text-orange.png"   width="30px"></code>
+
+
+
+
+
+
+
+
+
 

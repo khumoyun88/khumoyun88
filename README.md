@@ -14,7 +14,7 @@ Front-End Web Developer // Installs and tests user interface elements of website
 
 📍  Location: Warshaw, Poland </br>
 📞 Contact number: +48792031442  </br>
-📧 mail: [davlatovkhumoyun@gmail.com](https:://Gmail.com/davlatovkhumoyun@gmail.com])
+📧 mail: davlatovkhumoyun@gmail.com
 
 
 
